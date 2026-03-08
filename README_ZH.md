@@ -268,7 +268,7 @@ hf download zanxii/StructXlip <file>.zip --repo-type dataset --local-dir data/st
 @inproceedings{ruan2026StruXLIP,
   title     = {StructXLIP: Enhancing Vision-Language Models
                with Multimodal Structural Cues},
-  author    = {Ruan, Zanxi and Kong, Qiuyu and Gao, Songqun
+  author    = {Ruan, Zanxi and Gao, Songqun and Kong, Qiuyu
                and Wang, Yiming and Cristani, Marco},
   booktitle = {Proceedings of the IEEE/CVF Conference on
                Computer Vision and Pattern Recognition (CVPR)},

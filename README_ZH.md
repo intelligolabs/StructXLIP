@@ -1,4 +1,4 @@
-# StructXLIP — 基于多模态结构线索的视觉-语言模型增强
+# StructXLIP: 基于多模态结构线索的视觉-语言模型增强
 
 <p align="center">
   <img src="images/logo2.png" width="380" alt="StructXLIP">

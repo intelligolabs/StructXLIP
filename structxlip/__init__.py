@@ -1,0 +1,2 @@
+"""StructXLIP package."""
+

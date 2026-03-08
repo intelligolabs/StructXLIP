@@ -1,0 +1,12 @@
+# StructXLIP dependencies tested in a Conda Python 3.10 environment.
+# Install torch/torchvision based on your CUDA setup, then install this file.
+
+torch==2.8.0
+torchvision==0.23.0
+lightning==2.5.2
+transformers @ git+https://github.com/huggingface/transformers@26dbe643d1599e9550e279498ea0a23753953723
+numpy==2.2.6
+Pillow==11.3.0
+wandb==0.21.1
+tokenizers==0.22.1
+safetensors==0.5.3

@@ -1,0 +1,10 @@
+# Keep these folders in repo as empty placeholders only
+datasets/*
+!datasets/.gitkeep
+
+weights/*
+!weights/.gitkeep
+
+# Python cache artifacts
+__pycache__/
+*.py[cod]

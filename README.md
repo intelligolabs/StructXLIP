@@ -24,7 +24,7 @@
   <img src="images/method.png" width="860" alt="Method overview">
 </p>
 
-StructXLIP augments CLIP-style contrastive learning with **structural cues** (scribble maps, edge maps) alongside RGB images. 
+StructXLIP augments CLIP-style contrastive learning with **structural cues** (scribble maps, edge maps etc) alongside RGB images. 
 Three new training objectives are implemented in [`structxlip/losses.py`](structxlip/losses.py) and packaged as drop-in PyTorch modules in [`plug_and_play_loss.py`](plug_and_play_loss.py):
 
 | Objective | Function |

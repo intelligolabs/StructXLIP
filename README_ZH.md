@@ -17,12 +17,12 @@
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10-3776ab.svg"></a>
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-2.8-ee4c2c.svg"></a>
 </p>
+
 ---
 
 <p align="center">
-  <sub>发音：<b>/strʌk slɪp/</b> &nbsp;·&nbsp; 类似英文 <i>"struck slip"</i></sub>
+  <sub>发音：<b>/strʌk slɪp/</b> &nbsp;·&nbsp</sub>
 </p>
-
 
 ---
 

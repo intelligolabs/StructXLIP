@@ -1,4 +1,4 @@
-# StructXLIP — Enhancing Vision-Language Models with Multimodal Structural Cues
+# StructXLIP: Enhancing Vision-Language Models with Multimodal Structural Cues
 
 <p align="center">
   <img src="images/logo2.png" width="380" alt="StructXLIP">

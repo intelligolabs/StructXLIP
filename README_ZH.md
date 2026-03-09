@@ -269,7 +269,7 @@ hf download zanxii/StructXlip <file>.zip --repo-type dataset --local-dir data/st
 ## 引用
 
 ```bibtex
-@inproceedings{ruan2026StruXLIP,
+@inproceedings{ruan2026StructXLIP,
   title     = {StructXLIP: Enhancing Vision-Language Models
                with Multimodal Structural Cues},
   author    = {Ruan, Zanxi and Gao, Songqun and Kong, Qiuyu

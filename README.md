@@ -1,7 +1,7 @@
 # StructXLIP: Enhancing Vision-Language Models with Multimodal Structural Cues
 
 <p align="center">
-  <img src="images/logo2.png" width="380" alt="StructXLIP">
+  <img src="images/method.png" width="860" alt="Method overview">
 </p>
 
 <p align="center">
@@ -22,14 +22,12 @@
 
 
 <p align="center">
-  <sub>Pronounced <b>/strʌk slɪp/</b></sub>
+  <span style="font-size: 18px">Pronounced <b>/strʌk slɪp/</b></span>
 </p>
 
 ---
 
-<p align="center">
-  <img src="images/method.png" width="860" alt="Method overview">
-</p>
+
 
 StructXLIP augments CLIP-style contrastive learning with **structural cues** (scribble maps, edge maps etc) alongside RGB images. 
 Three new training objectives are implemented in [`structxlip/losses.py`](structxlip/losses.py) and packaged as drop-in PyTorch modules in [`plug_and_play_loss.py`](plug_and_play_loss.py):

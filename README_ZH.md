@@ -1,7 +1,7 @@
 # StructXLIP: 基于多模态结构线索的视觉-语言模型增强
 
 <p align="center">
-  <img src="images/logo2.png" width="380" alt="StructXLIP">
+  <img src="images/method.png" width="860" alt="方法概览">
 </p>
 
 <p align="center">
@@ -21,14 +21,12 @@
 ---
 
 <p align="center">
-  <sub>发音：<b>/strʌk slɪp/</b> &nbsp;·&nbsp</sub>
+  <span style="font-size: 18px">发音：<b>/strʌk slɪp/</b> &nbsp;·&nbsp</span>
 </p>
 
 ---
 
-<p align="center">
-  <img src="images/method.png" width="860" alt="方法概览">
-</p>
+
 
 StructXLIP 在 CLIP-based 的对比学习中引入**结构线索**（例如边缘图），与 RGB 图像协同训练。
 

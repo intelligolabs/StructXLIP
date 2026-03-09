@@ -268,7 +268,7 @@ This section is being updated as we continue to open-source components of this p
 ## Citation
 
 ```bibtex
-@inproceedings{ruan2026StruXLIP,
+@inproceedings{ruan2026StructXLIP,
   title     = {StructXLIP: Enhancing Vision-Language Models
                with Multimodal Structural Cues},
   author    = {Ruan, Zanxi and Gao, Songqun and Kong, Qiuyu
